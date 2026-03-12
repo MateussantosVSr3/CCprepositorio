@@ -9,7 +9,7 @@
 
 ## Evidências de Teste
 ### 1. Adição
-![Adição](CCprepositorio/Checkpoint1/Captura de tela 2026-03-12 021711.png)
+![Adição](Captura de tela 2026-03-12 021711.png)
 ### 2. Subtração
 ![Subtração](link-da-imagem)
 ### 3. Multiplicação
