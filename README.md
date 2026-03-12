@@ -9,10 +9,10 @@
 
 ## Evidências de Teste
 ### 1. Adição
-![Adição](Checkpoint1/Captura de tela 2026-03-12 021711.png)
+![Adição](https://github.com/MateussantosVSr3/CCprepositorio/blob/master/Checkpoint1/Adicao.png)
 ### 2. Subtração
-![Subtração](link-da-imagem)
+![Subtração](https://github.com/MateussantosVSr3/CCprepositorio/blob/master/Checkpoint1/Subtracao.png)
 ### 3. Multiplicação
-![Multiplicação](link-da-imagem)
+![Multiplicação](https://github.com/MateussantosVSr3/CCprepositorio/blob/master/Checkpoint1/Multiplicacao.png)
 ### 4. Divisão
-![Divisão](link-da-imagem)
+![Divisão](https://github.com/MateussantosVSr3/CCprepositorio/blob/master/Checkpoint1/Divisao.png)
